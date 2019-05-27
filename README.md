@@ -1,4 +1,4 @@
-## Your Name
+## Daniel Ajilore
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2019 - Aug 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Leeds Beckett University (2007 - 2010)
 
-- Subject, any specialisms
-- Grade
+- Biomedical Sciences HND
 - Other cool stuff
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Vacherin Ltd** (2012 - 2017)    
+*Events Supervisor*  
+**Smart Hospitality** (2011 - 2012)   
+*Cafe Assistant/Events Supervisor*  
