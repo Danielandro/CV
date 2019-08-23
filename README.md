@@ -84,7 +84,8 @@ _Cafe Assistant/Events Supervisor_
 After a stint working as agency staff, I was taken on intially to work in the cafe where I had to quickly learn what a cappuccino was and how it wasn't a latte. I expanded into into an events role, providing service for daytime and evening events within our meeting spaces, aswell as in the gallery - with a promotion to events supervisor within six months.
 
 ## Interests 
-- I enjoy American Football, regular football, listening to music and reading. 
+- American Football, regular football, listening to music and reading.
+- Yoga
 - Philosophy - different ideas and approaches to life
 - Psychology - in a practical sense; what factors effect motivation, confidence, decision making, emotions
 - New technology - the constant evolution of our daily interation with tech
