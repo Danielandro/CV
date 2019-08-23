@@ -1,6 +1,6 @@
 <h1 align="center">Daniel Ajilore</h1>
 
-<p align="center"> <a href="https://github.com/Danielandro"><img src="https://github.blog/wp-content/uploads/2013/04/074d0b06-a5e3-11e2-8b7f-9f09eb2ddfae.jpg?resize=1234%2C701" alt="github" hspace="50" height="42" width="42" ></a>
+<p align="center"> <a href="https://github.com/Danielandro"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a>
 <a href="https://www.linkedin.com/in/debora-piu/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 <div align="center">
