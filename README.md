@@ -22,7 +22,7 @@ I am a software engineer, gratuating from <a href="https://makers.tech/">Makers 
 | [Dragons of the Caribbean](https://github.com/carlfjones/DragonPirates) | A 2D side scroller (not flappy bird!) | 8 days  | Unity, C#, Android(deployment) | Unity Test Runner (NUnit)     |
 | [Acebook Off the Rails](https://github.com/lucianmot/acebook-off-the-rails) | Social messaging app        | 10 day                | Ruby on Rails, PostgreSQL, RSPec, Capybara, Rubocop, Devise, Bulma-Rails, SimpleCov                       |TravisCI, RubyCritic, Heroku
 | [Bank Tech Test](https://github.com/Danielandro/bank-tech-test) | Mock tech test simulating basic banking functions           | 2 days   | Ruby, RSpec, SimpleCov                | -                            |
-| CustomerApp   | Basic MVC app using Node         | -     | NodeJS, Express, EJS, MongoDB    | Heroku, MLab                            |
+| [CustomerApp](https://github.com/Danielandro/customerapp)   | Basic MVC app using Node         | -     | NodeJS, Express, EJS, MongoDB    | Heroku, MLab                            |
 
 ## Skills and Personality
 
