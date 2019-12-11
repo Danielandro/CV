@@ -23,7 +23,7 @@ I am a software engineer, gratuating from <a href="https://makers.tech/">Makers 
 | [Acebook Off the Rails](https://github.com/lucianmot/acebook-off-the-rails) | Social messaging app        | 10 day                | Ruby on Rails, PostgreSQL, RSPec, Capybara, Rubocop, Devise, Bulma-Rails, SimpleCov                       |TravisCI, RubyCritic, Heroku
 | [Bank Tech Test](https://github.com/Danielandro/bank-tech-test) | Mock tech test simulating basic banking functions           | 2 days   | Ruby, RSpec, SimpleCov                | -                            |
 | [CustomerApp](https://github.com/Danielandro/customerapp)   | Basic MVC app using Node         | -     | NodeJS, Express, EJS, MongoDB    | Heroku, MLab                            |
-
+| [Junior Jobs App](https://github.com/Danielandro/junior-jobs-app)   | Junior jobs aggregator app        | 3 days    | NodeJS, Express, React, Redis    |                           |
 ## Skills and Personality
 
 #### Persistent
